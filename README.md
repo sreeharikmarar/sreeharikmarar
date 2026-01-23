@@ -1,4 +1,5 @@
-# Hello!
+# Hello, I am Sreehari
 
-I work as a Product Engineer at [Tetrate.io](https://tetrate.io), specializing in Service Mesh technology. Enthusiastic about service mesh's role in cloud-native application architecture & development, CI/CD, containerization & migration and platform engineering.   
-🚀 #CloudNative #ServiceMesh #ZeroTrust
+Product Engineer with 14+ years of experience in cloud native and platform systems. Recently worked on core features of [Tetrate Service Bridge](https://tetrate.io/solutions/platform-services), spanning Kubernetes, service mesh, gateways, security, and GitOps. Interested in platform engineering, AI Ops, and AI agent driven systems.
+
+🚀 #CloudNative #ServiceMesh #ZeroTrust #AIOps
