@@ -1,5 +1,9 @@
 # Hello, I am Sreehari
 
-Product Engineer with 14+ years of experience in cloud native infrastructure and platform engineering. Recently worked on core features of [Tetrate Service Bridge](https://tetrate.io/solutions/platform-services), spanning k8s, service mesh, gateways, security, and GitOps. Interested in cloud native platforms, infrastructure ,AI ops & AI agent driven systems.
+Product Engineer with 14+ years of experience in cloud native infrastructure and platform engineering. 
 
-🚀 #CloudNative #ServiceMesh #ZeroTrust #AIOps
+- Most recently led core platform capabilities of [Tetrate Service Bridge](https://tetrate.io/solutions/platform-services) at Tetrate - service mesh, istio, gateway, multi-cluster traffic routing & load balancing, resiliency, zero-trust, gitops across AKS/GKE/EKS.  
+- Previously built real-time data pipelines, internal developer platforms as PaaS, and infra automation across AWS, GCP, and Azure.  
+- Currently deep in the AI + infrastructure intersection - exploring how agents and LLMs can make platform operations smarter.  
+
+🚀 #CloudNative #AIGateway #MLOps #ServiceMesh #ZeroTrust
